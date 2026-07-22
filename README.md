@@ -1,49 +1,52 @@
 # 🐍 Projetos em Python
 
-Este repositório reúne os projetos que estou desenvolvendo durante meus estudos de Python.
+Bem-vindo ao meu repositório de estudos em **Python**.
 
-O objetivo é praticar lógica de programação, funções, estruturas de repetição, condicionais, manipulação de arquivos e outros conceitos importantes da linguagem.
+Aqui registro minha evolução como programador por meio de projetos práticos, aplicando os conceitos que aprendo durante os estudos.
+
+---
 
 ## 📂 Projetos
 
-### ✅ Par ou Ímpar
-Primeiro projeto desenvolvido para praticar:
-- Estruturas condicionais (`if` e `else`)
-- Listas
-- Laços de repetição
-- Entrada e saída de dados
+| Projeto | Status | Conceitos |
+|---------|:------:|-----------|
+| ✅ Par ou Ímpar | Concluído | Condicionais, listas, laços de repetição |
+| ✅ Calculadora | Concluído | Funções, while, condicionais, entrada e saída de dados |
+| 🚧 Sistema de Cadastro | Em desenvolvimento | JSON, funções, manipulação de arquivos |
+| 📌 Gerador de Senhas | Planejado | Random, strings |
+| 📌 Agenda de Contatos | Planejado | CRUD, JSON |
+| 📌 Lista de Tarefas | Planejado | Listas, arquivos |
 
 ---
 
-### ✅ Calculadora
-Calculadora feita no terminal com as operações:
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-
-Conceitos utilizados:
-- Funções
-- `while`
-- `break`
-- `if`, `elif` e `else`
-- Conversão de dados (`float`)
-- Organização do código
-
----
-
-### 🚧 Próximos projetos
-
-- Sistema de Cadastro
-- Gerador de Senhas
-- Agenda de Contatos
-- Lista de Tarefas
-
-## 🛠️ Tecnologias
+## 📚 Tecnologias
 
 - Python 3
 - Visual Studio Code
+- Git
+- GitHub
+
+---
 
 ## 🎯 Objetivo
 
-Registrar minha evolução como programador, desenvolvendo projetos cada vez mais completos e organizados.
+Meu objetivo é desenvolver uma base sólida em programação, criando projetos cada vez mais completos e organizados para aplicar novos conceitos e acompanhar minha evolução como desenvolvedor.
+
+---
+
+## 🚀 Próximos passos
+
+- Concluir o Sistema de Cadastro
+- Desenvolver um Gerador de Senhas
+- Aprender Programação Orientada a Objetos (POO)
+- Trabalhar com banco de dados (SQLite)
+- Criar aplicações com interface gráfica
+- Desenvolver APIs utilizando Flask
+
+---
+
+## 📈 Evolução
+
+Este repositório será atualizado constantemente conforme novos projetos forem sendo desenvolvidos.
+
+⭐ Cada projeto possui uma pasta própria com seu código-fonte e um README explicando seu funcionamento.
